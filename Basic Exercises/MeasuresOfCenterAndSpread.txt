@@ -1,0 +1,5 @@
+
+
+Two data sets with the same range and standard deviation, but different means.
+Two data sets with the same mean and range, but different standard deviations.
+Two data sets with the same mean and standard deviation, but different ranges.
