@@ -39,6 +39,6 @@ plt.hist(v, bins=50, normed=True)
 #plt.show()
 
 # Another way: Computing the hist with numpy and then to plotting it
-(n,bins) = np.histogram(v, bins=50, normed=True) # No plot using numpy
-plt.plot(.5*(bins[1:]+bins[:-1]),n) #do not actually understand very well this line to be honest...
-plt.show()
+# (n,bins) = np.histogram(v, bins=50, normed=True) # No plot using numpy
+# plt.plot(.5*(bins[1:]+bins[:-1]),n) #do not actually understand very well this line to be honest...
+# plt.show()
