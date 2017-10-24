@@ -28,5 +28,6 @@ plt.show()
 WeightsNP = np.array(weights)
 HeightsNP = np.array(heights)
 
+# Nothing changes
 plt.scatter(WeightsNP,HeightsNP)
 plt.show()
